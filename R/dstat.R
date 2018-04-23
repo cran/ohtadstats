@@ -1,6 +1,7 @@
 #' Tomoka Ohta's D Statistics
 #' 
-#' Implements Ohta's D statistics for a pair of loci
+#' Implements Ohta's D statistics for a pair of loci. Statistics are returned in a vector in the following order:
+#' Number of populations, D2it, D2is, D2st, D'2st, D'2is.
 #' 
 #' @param index A two-element vector of column names or numbers for which
 #' Ohta's D Statistics will be computed.
@@ -30,10 +31,10 @@
 #' 
 #' @examples
 #' data(beissinger_data)
-#' ohtadstat(index = c(1,2), data_set = beissinger_data)
+#' dstat(index = c(5,6), data_set = beissinger_data)
 #' 
 #' @export
-ohtadstat <- function(index, data_set, tot_maf = 0.1, pop_maf = 0.05){
+dstat <- function(index, data_set, tot_maf = 0.1, pop_maf = 0.05){
     tot_maf = tot_maf * 2
     pop_maf = pop_maf * 2
     tot_max_thresh = 2 - tot_maf
