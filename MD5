@@ -1,4 +1,4 @@
-d770483160c0d8e7c54e6eca5251af22 *DESCRIPTION
+f7675e7c93b66feae668f0d911991afd *DESCRIPTION
 abf8704b438a154d077988f45c12ce53 *LICENSE
 1d6447e4dd37b77cc29f4d1ef28baa2c *NAMESPACE
 0cd4556d6053adaba1d7f0058970a59b *R/beissinger_data.R
@@ -8,7 +8,6 @@ fbd3ad64aeadd4273aee8b397ec96f98 *R/dheatmap.R
 db46df1453aa84ef4d42cd346091519e *R/dstat.R
 0b347e6c5ad925bd5ac7391b61a9f751 *R/dwrapper.R
 7c8c6869c43b2437f468e2d602d79b86 *R/miyashita_langley_data.R
-a067d6083bffe52ac7fbd88bee666a73 *README.md
 f20df8cfaf9d47f8d41a4c6b5683f3b0 *data/beissinger_data.rda
 af0ea41c2e1c74cfdc2756fb77d2cb72 *data/miyashita_langley_data.rda
 a5ef8a38e376b8c9c4a9eef6235f28cf *man/beissinger_data.Rd

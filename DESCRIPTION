@@ -1,6 +1,6 @@
 Package: ohtadstats
-Version: 1.2.1
-Date: 2018-08-14
+Version: 2.0.0
+Date: 2018-08-30
 Title: Tomoka Ohta D Statistics
 Description: Calculate's Tomoka Ohta's partitioning of linkage disequilibrium,
  deemed D-statistics, for pairs of loci. Beissinger et al. (2016) <doi:10.1038/hdy.2015.81>.
@@ -13,6 +13,6 @@ URL: https://github.com/pfpetrowski/OhtaDStats
 RoxygenNote: 6.1.0
 Encoding: UTF-8
 NeedsCompilation: no
-Packaged: 2018-08-14 22:03:16 UTC; pfpetrowski
+Packaged: 2018-08-30 20:50:18 UTC; pfpetrowski
 Repository: CRAN
-Date/Publication: 2018-08-14 22:20:03 UTC
+Date/Publication: 2018-08-30 23:30:02 UTC
