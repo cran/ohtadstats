@@ -1,8 +1,9 @@
-f7675e7c93b66feae668f0d911991afd *DESCRIPTION
+8fa7f2527d2c92b3637f47b25d46b01e *DESCRIPTION
 abf8704b438a154d077988f45c12ce53 *LICENSE
-1d6447e4dd37b77cc29f4d1ef28baa2c *NAMESPACE
+e1234227ff24c3ac55c303da31226cc0 *NAMESPACE
 0cd4556d6053adaba1d7f0058970a59b *R/beissinger_data.R
 022354e3d4a35d4a65b4316fc5a5401f *R/determinejob.R
+904c5bfe66753d9bf8833c829591f060 *R/dfilter.R
 fbd3ad64aeadd4273aee8b397ec96f98 *R/dheatmap.R
 2bb16914bb8b06b205c03ca881b263f3 *R/dparallel.R
 db46df1453aa84ef4d42cd346091519e *R/dstat.R
@@ -11,6 +12,7 @@ db46df1453aa84ef4d42cd346091519e *R/dstat.R
 f20df8cfaf9d47f8d41a4c6b5683f3b0 *data/beissinger_data.rda
 af0ea41c2e1c74cfdc2756fb77d2cb72 *data/miyashita_langley_data.rda
 a5ef8a38e376b8c9c4a9eef6235f28cf *man/beissinger_data.Rd
+08473019086dac6ecd23c857122d7fc7 *man/dfilter.Rd
 3e458c54528d8d89f725f0d5cd2b6607 *man/dheatmap.Rd
 499ca1f2157be6dddc909458a72319e4 *man/dparallel.Rd
 4ea62e94811ca0c586f5e930690568b5 *man/dstat.Rd
